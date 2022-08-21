@@ -1,0 +1,15 @@
+C:\DotNet\classndobject\classndobject\bin\Debug\net6.0\classndobject.exe
+C:\DotNet\classndobject\classndobject\bin\Debug\net6.0\classndobject.deps.json
+C:\DotNet\classndobject\classndobject\bin\Debug\net6.0\classndobject.runtimeconfig.json
+C:\DotNet\classndobject\classndobject\bin\Debug\net6.0\classndobject.dll
+C:\DotNet\classndobject\classndobject\bin\Debug\net6.0\classndobject.pdb
+C:\DotNet\classndobject\classndobject\obj\Debug\net6.0\classndobject.csproj.AssemblyReference.cache
+C:\DotNet\classndobject\classndobject\obj\Debug\net6.0\classndobject.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet\classndobject\classndobject\obj\Debug\net6.0\classndobject.AssemblyInfoInputs.cache
+C:\DotNet\classndobject\classndobject\obj\Debug\net6.0\classndobject.AssemblyInfo.cs
+C:\DotNet\classndobject\classndobject\obj\Debug\net6.0\classndobject.csproj.CoreCompileInputs.cache
+C:\DotNet\classndobject\classndobject\obj\Debug\net6.0\classndobject.dll
+C:\DotNet\classndobject\classndobject\obj\Debug\net6.0\refint\classndobject.dll
+C:\DotNet\classndobject\classndobject\obj\Debug\net6.0\classndobject.pdb
+C:\DotNet\classndobject\classndobject\obj\Debug\net6.0\classndobject.genruntimeconfig.cache
+C:\DotNet\classndobject\classndobject\obj\Debug\net6.0\ref\classndobject.dll
