@@ -1,21 +1,27 @@
 ﻿using System;
-namespace ClassAndObject
+
+namespace Delegates
 {
+    // Delegate Definition  
+    public delegate int operation(int x, int y);
 
-    public class Testing
-    {
-
-        public void Checking()
-        {
-            Console.WriteLine("Hello Rishek");
-        }
-    }
     class Program
     {
+        // Method that is passes as an Argument  
+        // It has same signature as Delegates   
+        static int Addition(int a, int b)
+        {
+            return a + b;
+        }
+
         static void Main(string[] args)
         {
-            Testing obj = new Testing(); 
-            obj.Checking();
+            // Delegate instantiation  
+            operation obj = new operation(Program.Addition);
+
+            // output  
+            Console.WriteLine("Addition is={0}", obj(23, 27));
+            Console.ReadLine();
         }
     }
 }
